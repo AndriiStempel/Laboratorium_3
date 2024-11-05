@@ -77,7 +77,6 @@ while True:
 #Zad 7
 n = int(input("Podaj liczbę studentów: "))
 
-# Inicjalizacja zmiennych do sumowania punktów i zliczania poprawnych wpisów
 suma_punktow = 0
 licznik = 0
 
